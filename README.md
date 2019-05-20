@@ -24,3 +24,5 @@ Neural Networks and Deep Learning repository for all projects and programming as
 https://www.coursera.org/learn/neural-networks-deep-learning  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
+https://www.coursera.org/account/accomplishments/verify/WNK7Y3UAU2MU  
+
