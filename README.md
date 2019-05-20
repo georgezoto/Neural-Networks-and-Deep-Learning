@@ -4,7 +4,7 @@ Neural Networks and Deep Learning repository for all projects and programming as
 **Introduction to deep learning**  
 * Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.  
 
-**Neural Networks Basics** 
+**Neural Networks Basics**
 * Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.    
 
 **Shallow neural networks**  
@@ -18,8 +18,9 @@ Neural Networks and Deep Learning repository for all projects and programming as
 
 ![alt text](images/Neural-Networks-and-Deep-Learning-2.png)
 
+![alt text](images/Neural-Networks-and-Deep-Learning-3.png)
+
 # Links:  
 https://www.coursera.org/learn/neural-networks-deep-learning  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
-
