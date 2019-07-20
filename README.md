@@ -18,11 +18,14 @@ Neural Networks and Deep Learning repository for all projects and programming as
 
 ![alt text](images/Neural-Networks-and-Deep-Learning-2.png)
 
+![alt text](imagesNeural-Networks-and-Deep-Learning-Presentation.png)
+
 ![alt text](images/Neural-Networks-and-Deep-Learning-3.png)
 
 # Links:  
 https://www.coursera.org/learn/neural-networks-deep-learning  
 https://www.coursera.org/specializations/deep-learning  
 https://www.deeplearning.ai  
+https://docs.google.com/presentation/d/12s5xV6w5NY13IIDCSCKRdL6IhPESu0PTm1xZ2GcGx3w/edit?usp=sharing  
 https://www.coursera.org/account/accomplishments/verify/WNK7Y3UAU2MU  
 
