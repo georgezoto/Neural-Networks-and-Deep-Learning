@@ -18,7 +18,7 @@ Neural Networks and Deep Learning repository for all projects and programming as
 
 ![alt text](images/Neural-Networks-and-Deep-Learning-2.png)
 
-![alt text](imagesNeural-Networks-and-Deep-Learning-Presentation.png)
+![alt text](images/Neural-Networks-and-Deep-Learning-Presentation.png)
 
 ![alt text](images/Neural-Networks-and-Deep-Learning-3.png)
 
